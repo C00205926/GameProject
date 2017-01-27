@@ -1,5 +1,5 @@
 /// <summary>
-/// Author Jake Comiskey
+/// Author Jake Comiskey and Brendan Horlick
 /// date December 2016
 /// version 1
 /// time taken 2hr 35mins
